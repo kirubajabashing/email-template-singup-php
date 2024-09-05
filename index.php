@@ -122,7 +122,7 @@
     position: absolute;
     right: 200px;
    top: 65%;
-    transform: translate(0%, -50%);
+    transform: translate(83%, -150%);
 
     
 }
